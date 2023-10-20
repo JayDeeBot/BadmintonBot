@@ -12,12 +12,15 @@ hold on
 
 
  %% place Objects features
-    PlaceObject('Serving_Table.PLY',[2.2,1.85,0]); % Control table (H:1.5m L:1m W:0.5m)
+    PlaceObject('Serving_Table.PLY',[0.6,0.7,0]); % DoBot serving table (H:1.5m L:1m W:0.5m)
+    PlaceObject('Robot_Base.PLY',[0,1.5,0]); % Badminton bot base (H:0.5m L:0.6m W:3.6m)
     PlaceObject('Net.PLY',[0,0,0]); % Badminton net (H:1m x W:3m)
     PlaceObject('Exclusion_Fence.PLY',[0,0,0]); % Saftey Exclusion Fence (H:2m L:2m W:4m)
     PlaceObject('Light_Curtain.PLY',[-2,0.15,0]); % Saftey  Light Curtain 1 (H:1.8m L:0.1m W:0.1m)
     PlaceObject('Light_Curtain.PLY',[-2,2.85,0]); % Saftey  Light Curtain 2 (H:1.8m L:0.1m W:0.1m)
     PlaceObject('GUI_E-Stop.PLY',[2,-1,0]); % Player GUI and E- stop (H:1.5m L:0.6m W:0.4m)
+
+
 
     hold on
     
