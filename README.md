@@ -24,3 +24,9 @@ The idea of this robot is that we want to make a robot that can play badminton w
 |Wil|Modelling environment :slightly_smiling_face:|
 |Wil|Video editing 📹|
 
+## 3. Visual servoing (IBVS):star2:
+
+### *Click the image to watch demo video*
+<a href="https://youtu.be/DrDGVs7FONA?si=awy3LNJqR4uLvIWU
+" target="_blank"><img src="IBVS thumbnail.png" 
+alt="CLick the image below to watch demo video" width="240" height="180" border="10" /></a>
